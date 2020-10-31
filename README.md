@@ -1,7 +1,7 @@
 # Tinder bot
 A tinder swipe bot made using the selenium library in python.😉
 ## About
-Tinder is an American geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles based on their photos, a small bio, and common interests. 
+Tinder is an American geosocial networking and online dating application that allows users to anonymously swipe to like or dislike other profiles based on their photos, a small bio, and common interests. Tinder launched in 2012 within startup incubator Hatch Labs as a joint venture between IAC and mobile app development firm Xtreme Labs. By 2014, Tinder was registering about one billion "swipes" per day.
 ## Requirements
 
   * Python 3.7
